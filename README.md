@@ -1,14 +1,4 @@
-# 🔐 Nexa Login
 
-<div align="center">
-
-### Modern Authentication UI built with React Native & Expo
-
-A modern, responsive and animated login experience built with **React Native**, **Expo** and **TypeScript**.
-
-</div>
-
----
 
 ## 📱 Preview
 
