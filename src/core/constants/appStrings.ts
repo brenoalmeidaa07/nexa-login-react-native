@@ -1,0 +1,15 @@
+export const AppStrings = {
+  appName: 'Nexa',
+  welcomeBack: 'Welcome Back',
+  subtitle: 'Sign in to continue your journey.',
+  email: 'Email address',
+  password: 'Password',
+  rememberMe: 'Remember me',
+  forgotPassword: 'Forgot password?',
+  signIn: 'Sign In',
+  continueWith: 'Or continue with',
+  google: 'Google',
+  apple: 'Apple',
+  noAccount: "Don't have an account?",
+  createAccount: 'Create account',
+} as const;

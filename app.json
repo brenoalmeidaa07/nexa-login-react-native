@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Nexa Login",
+    "slug": "nexa-login",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0B0D14",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.portfolio.nexalogin"
+    },
+    "android": {
+      "package": "com.portfolio.nexalogin",
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
