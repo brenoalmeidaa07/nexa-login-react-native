@@ -1,17 +1,4 @@
 
-
-## 📱 Preview
-
-> Add a screenshot or GIF of the application here.
-
-```html
-<p align="center">
-  <img src="./assets/preview.png" width="300" alt="Nexa Login Preview" />
-</p>
-```
-
----
-
 ## ✨ About the Project
 
 **Nexa Login** is a modern authentication interface created to demonstrate mobile UI development using React Native.
